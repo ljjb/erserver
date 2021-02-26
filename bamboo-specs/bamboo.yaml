@@ -1,7 +1,7 @@
 ---
 version: 2
 plan:
-  project-key: ERS
+  project-key: ES
   key: MAIN
   name: ER Server Main Build
 stages:
