@@ -33,7 +33,7 @@ other:
 ---
 version: 2
 plan:
-  key: ERS-MAIN
+  key: ES-MAIN
 plan-permissions:
 - roles:
   - logged-in
